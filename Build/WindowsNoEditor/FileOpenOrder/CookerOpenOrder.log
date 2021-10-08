@@ -2,14 +2,14 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/CInematics/MasterSequence.uasset" 1
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/CInematics/MasterSequencer2.uasset" 2
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 3
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 4
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 4
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 5
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 6
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 7
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 8
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 9
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 10
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 11
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 6
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 7
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 8
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 9
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 10
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 11
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 12
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 13
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 14
@@ -75,147 +75,147 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim_D.uasset" 74
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Hip_UP.uasset" 75
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/ShooterGameHUD.uasset" 76
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Mesh/SM_SniperRifle_Skeleton.uasset" 77
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Mesh/SM_SniperRifle_PhysicsAsset.uasset" 78
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Materials/M_SniperRIfle_2.uasset" 79
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Materials/M_SniperRifle_1.uasset" 80
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Mesh/SM_SniperRifle.uasset" 81
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Mesh/SM_MachineGun_Skeleton.uasset" 82
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Mesh/SM_MachineGun_PhysicsAsset.uasset" 83
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Materials/M_MachineGun_3.uasset" 84
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Materials/M_MachineGun_2.uasset" 85
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Materials/M_MachineGun_1.uasset" 86
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Mesh/SM_MachineGun.uasset" 87
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Mesh/AssaultRifle_Skeleton.uasset" 88
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Mesh/AssaultRifle_PhysicsAsset.uasset" 89
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Materials/M_AssaultRifle_Mat_3.uasset" 90
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Materials/M_AssaultRifle_Mat_2.uasset" 91
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Materials/M_AssaultRifle_Mat_1.uasset" 92
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Mesh/AssaultRifle.uasset" 93
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 94
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 95
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 96
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 97
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 98
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 99
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 100
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 101
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 102
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 103
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 104
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 105
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 106
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 107
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 108
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 109
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 110
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 111
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 112
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 113
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 114
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/E_AI_WeaponType.uasset" 115
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Scripts/Game_Over_Widget.uasset" 116
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Meshes/BaseMaterial.uasset" 117
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 118
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 119
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 120
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 121
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 122
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 123
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 124
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 125
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 126
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 127
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 128
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 129
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 130
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 131
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 132
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 133
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 134
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 135
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 136
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 137
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 138
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 139
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 140
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 141
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Burst_M.uasset" 142
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_Burst.uasset" 143
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/P_Explosion.uasset" 144
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/UI/HUD/W_MainHUD.uasset" 145
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/UI/HUD/Textures/T_PlayerCrosshair.uasset" 146
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/UI/HUD/W_IronSightHUD.uasset" 147
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 148
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 149
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 150
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 151
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 152
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 153
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/M_BulletProjecttail.uasset" 154
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/BP_BulletProjecttail.uasset" 155
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Audio/SW_WeaponFire.uasset" 156
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/t_blood_impact_n.uasset" 157
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/t_blood_impact.uasset" 158
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/m_blood_impact.uasset" 159
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/p_blood_impact.uasset" 160
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/decals/T_bullet_hole_distortion.uasset" 161
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/decals/T_bullet_hole.uasset" 162
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/decals/M_Bullet_hole_Decal.uasset" 163
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/BP_PlayerBaseWeapon.uasset" 164
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/BP_PlayerRifle.uasset" 165
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Sprint_Fwd_Rifle.uasset" 166
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Fwd_Rifle.uasset" 167
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Idle_Rifle_Hip.uasset" 168
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/WalkRunSprint.uasset" 169
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jump_From_Stand.uasset" 170
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jump_From_Jog.uasset" 171
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 172
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Idle_Rifle_Ironsights.uasset" 173
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Idle_Rifle_Hip.uasset" 174
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Rt_Rifle_Hip.uasset" 175
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Lt_Rifle_Hip.uasset" 176
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Fwd_Rifle_Hip.uasset" 177
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Bwd_Rifle_Hip.uasset" 178
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/BS_CrouchWalk.uasset" 179
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Rt_Rifle_Ironsights.uasset" 180
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Lt_Rifle_Ironsights.uasset" 181
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Fwd_Rifle_Ironsights.uasset" 182
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Bwd_Rifle_Ironsights.uasset" 183
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/BS_IronsightsWalk.uasset" 184
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Idle_Rifle_Ironsights.uasset" 185
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim_U.uasset" 186
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim_DD.uasset" 187
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/AimOfset.uasset" 188
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Ironsights_UP.uasset" 189
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Ironsights_DOWN.uasset" 190
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Ironsights_CC.uasset" 191
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/AimOffset_Ironsight.uasset" 192
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/PlayerShooter_CharacterAnimBP.uasset" 193
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Sounds/Sound_Lose.uasset" 194
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Player/BP_ShooterPlayer.uasset" 195
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_StartStopAttack.uasset" 196
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_SetMovingSpeed.uasset" 197
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_SearchPoint.uasset" 198
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_RotateToEnemy.uasset" 199
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_FindRandomPatrol.uasset" 200
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_FindPathPatrolLocation.uasset" 201
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_CustomMoveTo.uasset" 202
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/E_AI_States.uasset" 203
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BT_DeadBodyAlert.uasset" 204
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/BD_ShooterAI.uasset" 205
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BP_ShooterAI_Controller.uasset" 206
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_ChangeAIState.uasset" 207
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_AimingTime.uasset" 208
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/BT_MainShooter_AI.uasset" 209
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Audio/SC_WeaponFire_Cue.uasset" 210
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Reload_Rifle_Ironsights.uasset" 211
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AM_Reload_Rifle_Ironsights.uasset" 212
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Rt_Rifle.uasset" 213
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Lt_Rifle.uasset" 214
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Bwd_Rifle.uasset" 215
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/BS_Jog.uasset" 216
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AB_EnemyCharacterr.uasset" 217
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Reload_Rifle_Ironsights.uasset" 77
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AM_Reload_Rifle_Ironsights.uasset" 78
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Mesh/SM_SniperRifle_Skeleton.uasset" 79
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Mesh/SM_SniperRifle_PhysicsAsset.uasset" 80
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Materials/M_SniperRIfle_2.uasset" 81
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Materials/M_SniperRifle_1.uasset" 82
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/SniperRifle/Mesh/SM_SniperRifle.uasset" 83
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Mesh/SM_MachineGun_Skeleton.uasset" 84
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Mesh/SM_MachineGun_PhysicsAsset.uasset" 85
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Materials/M_MachineGun_3.uasset" 86
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Materials/M_MachineGun_2.uasset" 87
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Materials/M_MachineGun_1.uasset" 88
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/MachineGun/Mesh/SM_MachineGun.uasset" 89
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Mesh/AssaultRifle_Skeleton.uasset" 90
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Mesh/AssaultRifle_PhysicsAsset.uasset" 91
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Materials/M_AssaultRifle_Mat_3.uasset" 92
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Materials/M_AssaultRifle_Mat_2.uasset" 93
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Materials/M_AssaultRifle_Mat_1.uasset" 94
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Weapons/AssaultRifle/Mesh/AssaultRifle.uasset" 95
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/E_AI_WeaponType.uasset" 96
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Audio/SW_WeaponFire.uasset" 97
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Audio/SC_WeaponFire_Cue.uasset" 98
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Rt_Rifle.uasset" 99
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Lt_Rifle.uasset" 100
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Fwd_Rifle.uasset" 101
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jog_Bwd_Rifle.uasset" 102
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/BS_Jog.uasset" 103
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Rt_Rifle_Ironsights.uasset" 104
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Lt_Rifle_Ironsights.uasset" 105
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Fwd_Rifle_Ironsights.uasset" 106
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Walk_Bwd_Rifle_Ironsights.uasset" 107
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/BS_IronsightsWalk.uasset" 108
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Idle_Rifle_Ironsights.uasset" 109
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Idle_Rifle_Hip.uasset" 110
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim_U.uasset" 111
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim_DD.uasset" 112
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/AimOfset.uasset" 113
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Ironsights_UP.uasset" 114
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Ironsights_DOWN.uasset" 115
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/Aim__Ironsights_CC.uasset" 116
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AimOffset/AimOffset_Ironsight.uasset" 117
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/AB_EnemyCharacterr.uasset" 118
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 119
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4Man_Logo_N.uasset" 120
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_Mannequin_occlusion_Mobile.uasset" 121
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_Mannequin_MAT_MASKA.uasset" 122
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_Mannequin__normals.uasset" 123
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 124
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 125
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 126
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Textures/UE4_LOGO_CARD.uasset" 127
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 128
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 129
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 130
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 131
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 132
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_AO.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 134
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 135
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 136
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/M_UE4Man_Body.uasset" 137
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset" 138
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Characters/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 139
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/M_BulletProjecttail.uasset" 140
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 141
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 143
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 144
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 145
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/BP_BulletProjecttail.uasset" 146
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 147
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 148
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 150
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 151
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 152
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 153
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 154
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Burst_M.uasset" 155
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/Materials/M_Burst.uasset" 156
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Particles/P_Explosion.uasset" 157
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/UI/HUD/W_MainHUD.uasset" 158
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/UI/HUD/Textures/T_PlayerCrosshair.uasset" 159
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/UI/HUD/W_IronSightHUD.uasset" 160
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 161
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jump_From_Stand.uasset" 162
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Jump_From_Jog.uasset" 163
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 164
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Idle_Rifle_Ironsights.uasset" 165
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Idle_Rifle_Hip.uasset" 166
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Rt_Rifle_Hip.uasset" 167
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Lt_Rifle_Hip.uasset" 168
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Fwd_Rifle_Hip.uasset" 169
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Crouch_Walk_Bwd_Rifle_Hip.uasset" 170
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/BS_CrouchWalk.uasset" 171
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/Sprint_Fwd_Rifle.uasset" 172
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/WalkRunSprint.uasset" 173
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Animations/PlayerShooter_CharacterAnimBP.uasset" 174
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Sounds/Sound_Lose.uasset" 175
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Scripts/Game_Over_Widget.uasset" 176
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/t_blood_impact_n.uasset" 177
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/t_blood_impact.uasset" 178
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/m_blood_impact.uasset" 179
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/blood_impact/p_blood_impact.uasset" 180
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/decals/T_bullet_hole_distortion.uasset" 181
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/decals/T_bullet_hole.uasset" 182
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Effects/decals/M_Bullet_hole_Decal.uasset" 183
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/BP_PlayerBaseWeapon.uasset" 184
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Weapon/BP_PlayerRifle.uasset" 185
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Meshes/BaseMaterial.uasset" 186
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 187
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 188
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset" 189
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 190
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 191
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 192
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 193
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 194
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 195
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 196
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 197
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 198
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 199
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 200
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 201
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 202
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Player/BP_ShooterPlayer.uasset" 203
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_StartStopAttack.uasset" 204
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_SetMovingSpeed.uasset" 205
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_SearchPoint.uasset" 206
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_RotateToEnemy.uasset" 207
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_FindRandomPatrol.uasset" 208
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_FindPathPatrolLocation.uasset" 209
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_CustomMoveTo.uasset" 210
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/E_AI_States.uasset" 211
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BT_DeadBodyAlert.uasset" 212
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/BD_ShooterAI.uasset" 213
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BP_ShooterAI_Controller.uasset" 214
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_ChangeAIState.uasset" 215
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_AimingTime.uasset" 216
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/BT_MainShooter_AI.uasset" 217
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BP_ShooterEnemyAI.uasset" 218
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BP_ShooterEnemyAI_Child.uasset" 219
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Services/BTS_CheckIsDead.uasset" 220
@@ -271,18 +271,18 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Chair_M.uasset" 270
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_Chair.uasset" 271
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/SM_Couch.uasset" 272
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Glass.uasset" 273
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Door_N.uasset" 274
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Door_M.uasset" 275
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_Door.uasset" 276
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Door_N.uasset" 273
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Door_M.uasset" 274
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_Door.uasset" 275
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Glass.uasset" 276
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/SM_Door.uasset" 277
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 278
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 279
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 280
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_RockMesh_N.uasset" 281
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_RockMesh_M.uasset" 282
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 283
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 284
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 283
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 284
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_Rock.uasset" 285
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/SM_Rock.uasset" 286
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Shelf_N.uasset" 287
@@ -353,8 +353,8 @@
 "../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 352
 "../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 353
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 354
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 355
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 356
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 355
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 356
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 357
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 358
 "../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 359
@@ -475,8 +475,8 @@
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 474
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 475
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 476
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 477
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 478
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 477
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 478
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 479
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 480
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 481
@@ -499,16 +499,16 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 498
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 499
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 500
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 501
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 502
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 503
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 504
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 505
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 506
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 507
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 508
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 509
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 510
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 501
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 502
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 503
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 504
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 505
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 506
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 507
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 508
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 509
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 510
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 511
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 512
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 513
@@ -538,10 +538,10 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Maps/Meshes/Materials/M_TextMaterialOpaque.uasset" 537
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/MainLevelCopy_BuiltData.uasset" 538
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/ShooterGameMode.uasset" 539
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/Geometry/Meshes/M_HealthPickUp.uasset" 540
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/Geometry/Meshes/INST_HealthPickUp.uasset" 541
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Sounds/Sound_HealthPickUp.uasset" 542
-"../../../Engine/Content/BasicShapes/Cube.uasset" 543
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Sounds/Sound_HealthPickUp.uasset" 540
+"../../../Engine/Content/BasicShapes/Cube.uasset" 541
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/Geometry/Meshes/M_HealthPickUp.uasset" 542
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/Geometry/Meshes/INST_HealthPickUp.uasset" 543
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Scripts/Medkit.uasset" 544
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/Spawners/OnOverlapEnemySpawner_BP.uasset" 545
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/ShooterSimplifiedAI/Blueprints/AI/BehaviorTree/Tasks/BTT_MoveToAssaultPath.uasset" 546
@@ -561,8 +561,8 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 560
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 561
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/MainLevel_BuiltData.uasset" 562
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Scripts/Door.uasset" 563
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Ground_Grass.uasset" 564
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Ground_Grass.uasset" 563
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/Scripts/Door.uasset" 564
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/MainLevel/MainLevel.umap" 565
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 566
 "../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 567
@@ -661,8 +661,8 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 660
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 661
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Metal_Steel.uasset" 662
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 663
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 664
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 663
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 664
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Metal_Rust.uasset" 665
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 666
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Metal_Gold.uasset" 667
@@ -670,57 +670,57 @@
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 669
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 670
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Ground_Moss.uasset" 671
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 672
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 673
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 672
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 673
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 674
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 675
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 676
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 677
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 678
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 679
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 680
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 681
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 682
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 683
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 684
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 685
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 686
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 687
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 688
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 689
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 690
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 691
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Gradinet_01.uasset" 692
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 693
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 694
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 695
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 696
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 697
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 698
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 699
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 700
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 701
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 702
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 703
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 704
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 705
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 706
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 707
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 708
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 709
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 710
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 711
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 712
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 713
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 714
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 715
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 716
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 717
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 718
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 719
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 720
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 721
-"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 722
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 680
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 681
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 682
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 683
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 684
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 685
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 686
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 687
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 688
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Gradinet_01.uasset" 689
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 690
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 691
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 692
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 693
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 694
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 695
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 696
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 697
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 698
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 699
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 700
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 701
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 702
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 703
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 704
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 705
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 706
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 707
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 708
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 709
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 710
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 711
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 712
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 713
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 714
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 715
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 716
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 717
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 718
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 719
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 720
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 721
+"D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 722
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Lamp_N.uasset" 723
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Textures/T_Lamp_M.uasset" 724
 "D:/AppsWProjects/Unreal Engine 4/Projects/Project01/Content/StarterContent/Props/Materials/M_Lamp.uasset" 725
